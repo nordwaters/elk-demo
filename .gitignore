@@ -1,0 +1,13 @@
+# Docker artifacts
+data/
+elasticsearch/
+logs/
+sincedb_*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
